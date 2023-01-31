@@ -45,6 +45,7 @@ int fun(int a[][10], int i, int flag)
 			}
 		}
 	}
+	
 	if (flag != 0)
 		return 0;
 	if (j == len)
